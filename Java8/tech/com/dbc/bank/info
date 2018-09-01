@@ -1,0 +1,35 @@
+Question 1:
+
+i)  we receive a String as Encripted Format like String s="ab2cde3m" we have decript it like 
+it should look like "ababcdecdecdem"
+ii) after decription have to find kth elelemnt like for String s, if k=4 then value return will be c
+
+Question 2:
+
+i) Need to find Nth non repetable charater into the String, 
+
+for ex, String city="maharasthra" where 1st no repetable charater is m and 2nd non repatable character is
+t.
+
+ii) if nth non repatable character doest not exists then have to display appropriate message.
+
+
+Question 3:-
+
+i) Create a design to take a Pizza order from Robot and to deliver
+ii) thereafter enhance the feature of the design so that many robot can order pizzas at the same time
+also may be one robot os ordering for bake pizza while other robot is making req to edit the pizza order.
+iii) Enhance the design so that the same could be ordered online after calling a web service. 
+
+
+
+Deuche Bank
+
+1) loading same class via two diff JAR files
+2) extactly where we writing @ManytoMany relationship tag
+3) spring IOC , when a bean is initialize, i want to do something before calling context.getBean() how to do-- will do via afterserProperties?
+4) how spring declarative transaction woking, how you annotate at service layer, how it know when to commit or rollback etc.
+5) how to create own caching, time bassed or on based on usage how to create algorithm etc.
+6) if we removing a object from one JVM..how to synchronize the same on other JVM's..how to let other JVM's know.
+
+
